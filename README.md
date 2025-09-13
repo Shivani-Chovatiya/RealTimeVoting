@@ -9,7 +9,7 @@ Users can create polls and vote in real-time. All connected clients viewing the 
 
 - **Node.js** – Backend runtime
 - **Express.js** – HTTP server framework
-- **MongoDB** – NoSQL database
+- **MongoDB** – MongoDB database
 - **Mongoose** – ODM for MongoDB
 - **Socket.IO** – Real-time bidirectional communication
 - **dotenv** – Environment variable management
